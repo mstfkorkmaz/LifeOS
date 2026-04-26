@@ -32,8 +32,27 @@ Proje geliştirme aşamasındadır. Yeni özellikler ve arayüz iyileştirmeleri
 - İstatistik ekranı
 - Tema desteği
 
+
 ## Geliştirici
 
 Mustafa Korkmaz  
 GitHub: [mstfkorkmaz](https://github.com/mstfkorkmaz)  
 LinkedIn: [mustafa--korkmaz](https://www.linkedin.com/in/mustafa--korkmaz/)
+
+
+## Planlanan Ekranlar
+
+- Ana sayfa
+- Günlük rutin listesi
+- Alışkanlık takip ekranı
+- Görev ekleme ekranı
+- İlerleme ve istatistik ekranı
+- Profil / ayarlar ekranı
+
+## Kullanım Senaryosu
+
+Kullanıcı uygulamaya günlük rutinlerini ekler, tamamladığı görevleri işaretler ve zaman içinde alışkanlıklarını takip eder. Amaç, kullanıcının düzenli bir yaşam akışı oluşturmasına ve kişisel verimliliğini artırmasına yardımcı olmaktır.
+
+## Proje Vizyonu
+
+LifeOS, yalnızca bir yapılacaklar listesi değil; kullanıcının günlük yaşamını, alışkanlıklarını ve hedeflerini tek yerden yönetebileceği kişisel yaşam yönetimi uygulaması olarak geliştirilmektedir.
