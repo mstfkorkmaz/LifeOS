@@ -1,6 +1,6 @@
-# Rutin App
+# LifeOS
 
-Rutin App, günlük rutinleri, alışkanlıkları ve görevleri takip etmek için geliştirilen mobil verimlilik uygulamasıdır.
+LifeOS, günlük rutinleri, alışkanlıkları ve görevleri takip etmek için geliştirilen mobil verimlilik uygulamasıdır.
 
 ## Amaç
 
